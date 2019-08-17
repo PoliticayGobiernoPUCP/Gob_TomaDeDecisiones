@@ -1,0 +1,76 @@
+<center><img src="https://github.com/PoliticayGobiernoPUCP/estadistica_anapol2/raw/master/PICS/LOGO_PUCP.png" width="500"></center>
+
+<center> <header><h1>GOBIERNO Y DECISIONES PUBLICAS</h1>  </header></center>
+
+* Profesor:  <a href="http://www.pucp.edu.pe/profesor/jose-manuel-magallanes/" target="_blank">Dr. José Manuel Magallanes, Ph.D.</a> <br>
+    - Profesor del Departamento de Ciencias Sociales, Sección de Ciencia Política y Gobierno.
+    - [Oficina 105](https://goo.gl/maps/xuGeG6o9di1i1y5m6) - Edificio CISEPA / ECONOMIA / CCSS
+    - Telefono: (51) 1 - 6262000 anexo 4302
+    - Correo Electrónico: [jmagallanes@pucp.edu.pe](mailto:jmagallanes@pucp.edu.pe)
+    
+-----
+
+
+<a id='beginning'></a>
+
+### Contenidos
+
+
+1. Información General
+2. Sumilla
+3. Resultado de Aprendizaje
+4. Programación de Clases
+   
+
+____
+
+<a id='part1'></a>
+
+### 1. Información General
+
+
+* Nombre del curso: **Gobierno y Decisiones Públicas**
+* Semestre:**2019-II**
+* Horario: **Miercoles de 19:00 a 22:00** (Sección F211)
+* Tipo: **Obligatorio** 
+
+ 
+____
+<a id='part2'></a>
+
+### 2. Sumilla
+
+Constituye el curso central de la maestría. En él se desarrolla la lógica de la decisión pública, y la naturaleza de los actos de gobierno. Se trata de incorporar un pensamiento estratégico en los alumnos a través de la capacidad de estructuración de problemas públicos. Asimismo, el curso plantea una revisión de lo que significa la modernización del estado, las reformas administrativas y los avances en los diversos modelos burocráticos. Se abordarán contenidos como una metodología para comprender la política de las políticas, la relación Ejecutivo- Parlamento, el proceso de formulación e implementación de políticas en un Estado descentralizado, el peso e influencia de las burocracias, actores de la sociedad civil (empresas, medios de comunicación, sindicatos, movimientos sociales, iglesia, think tanks, etc.) e instituciones informales como la gestión de intereses y la protesta social. Se trata de un curso de toma de decisiones y capacidad técnica, política y ética para resolver dilemas en el Estado.
+
+
+____
+<a id='part3'></a>
+
+### 3. Resultado de Aprendizaje:
+
+Al finalizar el curso, el estudiante tiene una visión integral del proceso que atraviesa el decisor político y el analista de políticas públicas para poder generar valor público en situaciones complejas características de la gobernanza multinivel.
+
+
+____
+<a id='part4'></a>
+
+### 4. Programación de Clases
+
+1. Enfoque Racional
+2. Cultura, Instituciones y Estrategia
+3. Comparación de enfoques
+4. Problema Público y sus causas
+5. Modelos Bottom-Up / Top-Down
+6. Viabilidad y Sostenibilidad
+7. Exploración de Datos Espaciales. 
+8. Redes de actores sociales.
+9. Elección Racional.
+10.Priorización y Elección de alternativas.
+11. Argumentación de Soluciones
+12. Debate y Toma de Decisiones
+
+
+
+
+
+[INICIO](#beginning)
