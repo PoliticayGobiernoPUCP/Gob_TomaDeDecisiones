@@ -11,15 +11,69 @@
     
 -----
 
-## Sesión 1: Enfoque Racional
+<a id='beginning'></a>
+
+
+# Sesión 1: Enfoque Racional
+
+
+## 1. Presentación:
 
 Veamos este video para entender de manera concisa el modelo racional:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2dgJhuX66N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="315" src="https://www.youtube.com/embed/2dgJhuX66N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--
 <iframe src="https://es.wikipedia.org/wiki/Racionalidad" scrolling= "yes" width="800" height="500"></iframe>
 -->
+
+
+-----
+
+
+## 2. Delimitando el modelo
+
+Discutamos en grupo:
+
+### * ¿Cómo asume este modelo al ser humano?
+
+
+![](pics/simpson.png){width="500px"} 
+
+
+
+![](pics/einstein.jpg){width="500px"}
+
+
+### * ¿Cuál es su mecanismo?
+
+![](pics/goal.jpg){width="500px"}
+
+
+
+### * ¿Cuál es el rol de la información?
+
+![](pics/info.png){width="500px"}
+
+
+### * ¿Cómo es su proceso?
+
+![](pics/problemSolve.jpg){width="500px"}
+
+### * ¿Cuál es su instrumental?
+
+![](pics/zanahoria.jpg){width="500px"}
+
+### * ¿Cuáles son sus criterios de éxito?
+
+![](pics/exito.jpg){width="500px"}
+
+### * ¿Cuáles es el rol de la política?
+
+![](pics/grupos.jpg){width="500px"}
+
+
+
 
 
 
