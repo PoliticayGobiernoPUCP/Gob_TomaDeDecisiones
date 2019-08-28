@@ -14,5 +14,38 @@
 <a id='beginning'></a>
 
 
-# Sesión 2: Cultura, Instituciones y Estrategia
+# Sesión 2: Estrategia, Cultura e Instituciones.
 
+La sesión anterior presentamos el paradigma racional, para ello usamos estas dimensiones para presentarlo:
+
+![](pics/delimitando.png){width="500px"} 
+
+Nos toca ahora ponerlo a prueba con otros modelos.
+
+## 1. Modelo Estratégico
+
+![](pics/estrategico.png){width="500px"} 
+
+
+¿Cómo diferenciar el modelo racional del estratégico?
+
+![](pics/vs_estrategico.png){width="500px"} 
+
+
+## 2. Modelo Cultural
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRfxVuSeFnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+¿Cómo diferenciar el modelo racional del cultural?
+
+![](pics/vs_cultural.png){width="500px"} 
+
+
+## 3. Modelo Institucional
+
+![](pics/manners.jpg){width="500px"} 
+
+¿Cómo diferenciar el modelo racional del institucional?
+
+![](pics/vs_instituciones.png){width="500px"}

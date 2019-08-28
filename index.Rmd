@@ -57,7 +57,7 @@ ____
 ### 4. Programación de Clases
 
 1. [Enfoque Racional](https://htmlpreview.github.io/?https://github.com/PoliticayGobiernoPUCP/Gob_TomaDeDecisiones/blob/master/racionalidad.html)
-2. Estrategia, Cultura e Instituciones
+2. [Estrategia, Cultura e Instituciones](https://htmlpreview.github.io/?https://github.com/PoliticayGobiernoPUCP/Gob_TomaDeDecisiones/blob/master/otrosModelos.html)
 3. Comparación de enfoques
 4. Problema Público y sus causas
 5. Modelos Bottom-Up / Top-Down
