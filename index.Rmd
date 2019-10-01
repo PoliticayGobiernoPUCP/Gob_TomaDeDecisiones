@@ -61,7 +61,7 @@ ____
 3. Comparación de enfoques
 4. [Problema Público y sus causas](https://mm.tt/1146398385?t=IbtLBHShpp)
 5. Modelos Bottom-Up / Top-Down
-6. Viabilidad y Sostenibilidad
+6. [Viabilidad y Sostenibilidad](https://htmlpreview.github.io/?https://github.com/PoliticayGobiernoPUCP/Gob_TomaDeDecisiones/blob/master/viabilidad.html)
 7. Exploración de Datos Espaciales. 
 8. Redes de actores sociales.
 9. Elección Racional.
