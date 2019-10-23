@@ -63,7 +63,7 @@ ____
 5. Modelos Bottom-Up / Top-Down
 6. [Viabilidad y Sostenibilidad](https://htmlpreview.github.io/?https://github.com/PoliticayGobiernoPUCP/Gob_TomaDeDecisiones/blob/master/viabilidad.html)
 7. Exploración de Datos Espaciales. 
-8. [Redes de actores sociales](https://htmlpreview.github.io/?https://github.com/PoliticayGobiernoPUCP/Gob_TomaDeDecisiones/blob/master/redesYactores.nb.html).
+8. [Redes de actores sociales](https://htmlpreview.github.io/?https://github.com/PoliticayGobiernoPUCP/Gob_TomaDeDecisiones/blob/master/redesYactores.html).
 9. Elección Racional.
 10.Priorización y Elección de alternativas.
 11. Argumentación de Soluciones

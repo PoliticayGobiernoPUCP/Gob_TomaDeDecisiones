@@ -2,7 +2,6 @@
 title: " "
 output:
   html_document:
-    df_print: paged
     code_folding: hide
 ---
 
@@ -62,7 +61,7 @@ Datos:
 ```{r, message=FALSE, eval=TRUE}
 link1="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKpd9WjJp1BNaoSI8rSXidbOSBg_QLzya6hBpL9QaShGktm-AEfbOazyhTBZxD6iZmH6e9cq50i3pj/pub?gid=0&single=true&output=csv"
 #leyendo data
-dataFase1=read.csv(link1,header=FALSE)
+dataFase1=read.csv(link1)
 
 #creando grafo
 library(igraph)
@@ -119,7 +118,7 @@ Datos:
 ```{r}
 link2="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKpd9WjJp1BNaoSI8rSXidbOSBg_QLzya6hBpL9QaShGktm-AEfbOazyhTBZxD6iZmH6e9cq50i3pj/pub?gid=773867725&single=true&output=csv"
 #leyendo data
-dataFase2=read.csv(link2,header=FALSE)
+dataFase2=read.csv(link2)
 
 #creando grafo
 library(igraph)
@@ -177,7 +176,7 @@ Datos:
 ```{r}
 link3="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKpd9WjJp1BNaoSI8rSXidbOSBg_QLzya6hBpL9QaShGktm-AEfbOazyhTBZxD6iZmH6e9cq50i3pj/pub?gid=1305292430&single=true&output=csv"
 #leyendo data
-dataFase3=read.csv(link3,header=FALSE)
+dataFase3=read.csv(link3)
 
 #creando grafo
 library(igraph)
