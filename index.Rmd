@@ -62,12 +62,12 @@ ____
 4. [Problema Público y sus causas](https://mm.tt/1146398385?t=IbtLBHShpp)
 5. Modelos Bottom-Up / Top-Down
 6. [Viabilidad y Sostenibilidad](https://htmlpreview.github.io/?https://github.com/PoliticayGobiernoPUCP/Gob_TomaDeDecisiones/blob/master/viabilidad.html)
-7. Exploración de Datos Espaciales. 
+7. [Exploración de Datos Espaciales](https://escience.washington.edu/research-project/opening-data-peru/). 
 8. [Redes de actores sociales](http://rpubs.com/jmagallanes/redes).
-9. Elección Racional.
-10.Priorización y Elección de alternativas.
-11. Argumentación de Soluciones
-12. Debate y Toma de Decisiones
+9. [Elección Racional](https://docs.google.com/presentation/d/1tPbO55I2odUsL5Fi3flZQ26M8lCijSTtS-Egc7Ld7Rs/edit?usp=sharing).
+10. Priorización y Elección de alternativas.
+11. Argumentación de Soluciones.
+12. Debate y Toma de Decisiones.
 
 
 
