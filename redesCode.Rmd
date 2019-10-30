@@ -1,0 +1,30 @@
+
+
+```{r, message=FALSE, eval=TRUE}
+link1="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKpd9WjJp1BNaoSI8rSXidbOSBg_QLzya6hBpL9QaShGktm-AEfbOazyhTBZxD6iZmH6e9cq50i3pj/pub?gid=0&single=true&output=csv"
+#leyendo data
+dataFase1=read.csv(link1)
+
+#creando grafo
+library(igraph)
+netFase1=graph.data.frame(dataFase1,directed=TRUE)
+
+# graficando
+plot.igraph(netFase1)
+```
+
+
+* __Recalculando indices de red__
+
+a. Densidad
+
+```{r}
+edge_density(netFase1)
+```
+
+b. Centralidad
+
+```{r}
+centr_degree(netFase1)$centralization
+```
+
