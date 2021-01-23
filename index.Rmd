@@ -30,8 +30,8 @@ ____
 
 
 * Nombre del curso: **Gobierno y Decisiones Públicas**
-* Semestre:**2019-II**
-* Horario: **Miercoles de 19:00 a 22:00** (Sección F211)
+* Semestre:**2020-II**
+* Horario: **Viernes de 19:00 a 22:00** 
 * Tipo: **Obligatorio** 
 
  
